@@ -1,0 +1,2807 @@
+{
+    "meta": {
+        "title": " \u0420\u0435\u0431\u0435\u043d\u043e\u043a (\u00ab\u041e\u043d\u0430 \u043b\u0435\u0436\u0438\u0442. \u0415\u0435 \u0433\u043b\u0430\u0437\u0435\u043d\u043a\u0438\u2026)",
+        "author": " \u0413\u043e\u0440\u043e\u0434\u0435\u0446\u043a\u0438\u0439 \u0421\u0435\u0440\u0433\u0435\u0439 \u041c\u0438\u0442\u0440\u043e\u0444\u0430\u043d\u043e\u0432\u0438\u0447 ",
+        "citation": " \u0413\u043e\u0440\u043e\u0434\u0435\u0446\u043a\u0438\u0439 \u0421. \u0420\u0435\u0431\u0435\u043d\u043e\u043a // \u0421\u0442\u0438\u0445\u043e\u0442\u0432\u043e\u0440\u0435\u043d\u0438\u044f \u0438 \u043f\u043e\u044d\u043c\u044b. \u041b. : \u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0438\u0439 \u043f\u0438\u0441\u0430\u0442\u0435\u043b\u044c, 1974. \u0421. 323\u2012324.",
+        "written": "1916;",
+        "published": "1918",
+        "lived": "-"
+    },
+    "sentences": [
+        {
+            "text": " \u041e\u043d\u0430 \u043b\u0435\u0436\u0438\u0442. \u0415\u044f \u0433\u043b\u0430\u0437\u0435\u043d\u043a\u0438,",
+            "words": [
+                {
+                    "wf": "\u041e\u043d\u0430",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "lex": "\u043e\u043d\u0430",
+                            "gr.pos": "NPRO"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u043b\u0435\u0436\u0438\u0442",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": "\u043b\u0435\u0436\u0430\u0442\u044c",
+                            "gr.pos": "VERB"
+                        }
+                    ]
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": ".",
+                            "gr.pos": "PUNCT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0415\u044f",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "\u043e\u043d\u0430",
+                            "gr.pos": "NPRO"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0433\u043b\u0430\u0437\u0435\u043d\u043a\u0438",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u0433\u043b\u0430\u0437\u0451\u043d\u043a\u0438",
+                            "gr.pos": "NOUN"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": ",",
+                            "gr.pos": "PUNCT"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {}
+        },
+        {
+            "text": "\u041a\u0430\u043a \u0434\u0432\u0435 \u0430\u0433\u0430\u0442\u043e\u0432\u044b\u0445 \u0437\u0432\u0435\u0437\u0434\u044b,",
+            "words": [
+                {
+                    "wf": "\u041a\u0430\u043a",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": "\u043a\u0430\u043a",
+                            "gr.pos": "CONJ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0434\u0432\u0435",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "\u0434\u0432\u0430",
+                            "gr.pos": "NUMR"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0430\u0433\u0430\u0442\u043e\u0432\u044b\u0445",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "\u0430\u0433\u0430\u0442\u043e\u0432\u044b\u0439",
+                            "gr.pos": "ADJF"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0437\u0432\u0435\u0437\u0434\u044b",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u0437\u0432\u0435\u0437\u0434\u0430",
+                            "gr.pos": "NOUN"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": ",",
+                            "gr.pos": "PUNCT"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {}
+        },
+        {
+            "text": "\u0418 \u0432 \u043d\u0435\u0439, \u0441\u0438\u044f\u044e\u0449\u0435\u043c \u0440\u0435\u0431\u0435\u043d\u043a\u0435,",
+            "words": [
+                {
+                    "wf": "\u0418",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 7,
+                    "ana": [
+                        {
+                            "lex": "\u0438",
+                            "gr.pos": "CONJ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0432",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "lex": "\u0432",
+                            "gr.pos": "PREP"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u043d\u0435\u0439",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": "\u043e\u043d\u0430",
+                            "gr.pos": "NPRO"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": ",",
+                            "gr.pos": "PUNCT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0441\u0438\u044f\u044e\u0449\u0435\u043c",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "\u0441\u0438\u044f\u0442\u044c",
+                            "gr.pos": "PRTF"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0440\u0435\u0431\u0435\u043d\u043a\u0435",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u0440\u0435\u0431\u0451\u043d\u043e\u043a",
+                            "gr.pos": "NOUN"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": ",",
+                            "gr.pos": "PUNCT"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {}
+        },
+        {
+            "text": "\u041d\u0435 \u0432\u0438\u0434\u043d\u043e \u0431\u043e\u043b\u0438 \u0438 \u0432\u0440\u0430\u0436\u0434\u044b.",
+            "words": [
+                {
+                    "wf": "\u041d\u0435",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "lex": "\u043d\u0435",
+                            "gr.pos": "PRCL"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0432\u0438\u0434\u043d\u043e",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": "\u0432\u0438\u0434\u043d\u043e",
+                            "gr.pos": "CONJ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0431\u043e\u043b\u0438",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "\u0431\u043e\u043b\u044c",
+                            "gr.pos": "NOUN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0438",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "\u0438",
+                            "gr.pos": "CONJ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0432\u0440\u0430\u0436\u0434\u044b",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u0432\u0440\u0430\u0436\u0434\u0430",
+                            "gr.pos": "NOUN"
+                        }
+                    ]
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": ".",
+                            "gr.pos": "PUNCT"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {}
+        },
+        {
+            "text": "\u0415\u0439 \u0434\u0435\u0432\u044f\u0442\u044c \u043b\u0435\u0442. \u041e\u043d\u0430, \u0438\u0433\u0440\u0430\u044f ",
+            "words": [
+                {
+                    "wf": "\u0415\u0439",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 7,
+                    "ana": [
+                        {
+                            "lex": "\u043e\u043d\u0430",
+                            "gr.pos": "NPRO"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0434\u0435\u0432\u044f\u0442\u044c",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "lex": "\u0434\u0435\u0432\u044f\u0442\u044c",
+                            "gr.pos": "NUMR"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u043b\u0435\u0442",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": "\u0433\u043e\u0434",
+                            "gr.pos": "NOUN"
+                        }
+                    ]
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": ".",
+                            "gr.pos": "PUNCT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u041e\u043d\u0430",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "\u043e\u043d\u0430",
+                            "gr.pos": "NPRO"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": ",",
+                            "gr.pos": "PUNCT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0438\u0433\u0440\u0430\u044f",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "\u0438\u0433\u0440\u0430\u0442\u044c",
+                            "gr.pos": "GRND"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {}
+        },
+        {
+            "text": "\u0420\u0443\u0447\u043e\u043d\u043a\u043e\u0439, \u0441\u043c\u0443\u0433\u043b\u044b\u043c \u0441\u0442\u0435\u0431\u0435\u043b\u044c\u043a\u043e\u043c, \u2014",
+            "words": [
+                {
+                    "wf": "\u0420\u0443\u0447\u043e\u043d\u043a\u043e\u0439",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "lex": "\u0440\u0443\u0447\u043e\u043d\u043a\u0430",
+                            "gr.pos": "NOUN"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": ",",
+                            "gr.pos": "PUNCT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0441\u043c\u0443\u0433\u043b\u044b\u043c",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "\u0441\u043c\u0443\u0433\u043b\u044b\u0439",
+                            "gr.pos": "ADJF"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0441\u0442\u0435\u0431\u0435\u043b\u044c\u043a\u043e\u043c",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "\u0441\u0442\u0435\u0431\u0435\u043b\u0451\u043a",
+                            "gr.pos": "NOUN"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": ",",
+                            "gr.pos": "PUNCT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u2014",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "\u2014",
+                            "gr.pos": "PUNCT"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {}
+        },
+        {
+            "text": "\u041d\u0430\u043f\u043e\u043c\u0438\u043d\u0430\u0435\u0442 \u043e\u0431\u043b\u0438\u043a \u0440\u0430\u044f,",
+            "words": [
+                {
+                    "wf": "\u041d\u0430\u043f\u043e\u043c\u0438\u043d\u0430\u0435\u0442",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "\u043d\u0430\u043f\u043e\u043c\u0438\u043d\u0430\u0442\u044c",
+                            "gr.pos": "VERB"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u043e\u0431\u043b\u0438\u043a",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "\u043e\u0431\u043b\u0438\u043a",
+                            "gr.pos": "NOUN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0440\u0430\u044f",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u0440\u0430\u0439",
+                            "gr.pos": "NOUN"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": ",",
+                            "gr.pos": "PUNCT"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {}
+        },
+        {
+            "text": "\u0412 \u0446\u0432\u0435\u0442\u0430\u0445 \u0443\u0432\u0438\u0434\u0435\u043d\u043d\u044b\u0439 \u0442\u0430\u0439\u043a\u043e\u043c.",
+            "words": [
+                {
+                    "wf": "\u0412",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": "\u0432",
+                            "gr.pos": "PREP"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0446\u0432\u0435\u0442\u0430\u0445",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "\u0446\u0432\u0435\u0442\u0430",
+                            "gr.pos": "NOUN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0443\u0432\u0438\u0434\u0435\u043d\u043d\u044b\u0439",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "\u0443\u0432\u0438\u0434\u0435\u0442\u044c",
+                            "gr.pos": "PRTF"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0442\u0430\u0439\u043a\u043e\u043c",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u0442\u0430\u0439\u043a\u043e\u043c",
+                            "gr.pos": "ADVB"
+                        }
+                    ]
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": ".",
+                            "gr.pos": "PUNCT"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {}
+        },
+        {
+            "text": "\u041e\u043d\u0430 \u0433\u043b\u044f\u0434\u0438\u0442, \u043a\u0430\u043a \u0437\u0430 \u043e\u043a\u043e\u0448\u043a\u043e\u043c ",
+            "words": [
+                {
+                    "wf": "\u041e\u043d\u0430",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "lex": "\u043e\u043d\u0430",
+                            "gr.pos": "NPRO"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0433\u043b\u044f\u0434\u0438\u0442",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": "\u0433\u043b\u044f\u0434\u0435\u0442\u044c",
+                            "gr.pos": "VERB"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": ",",
+                            "gr.pos": "PUNCT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u043a\u0430\u043a",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "\u043a\u0430\u043a",
+                            "gr.pos": "CONJ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0437\u0430",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u0437\u0430",
+                            "gr.pos": "PREP"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u043e\u043a\u043e\u0448\u043a\u043e\u043c",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "\u043e\u043a\u043e\u0448\u043a\u043e",
+                            "gr.pos": "NOUN"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {}
+        },
+        {
+            "text": "\u0421\u0438\u044f\u0435\u0442 \u0432\u0438\u0448\u043d\u044f \u0438 \u0430\u0439\u0432\u0430,",
+            "words": [
+                {
+                    "wf": "\u0421\u0438\u044f\u0435\u0442",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": "\u0441\u0438\u044f\u0442\u044c",
+                            "gr.pos": "VERB"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0432\u0438\u0448\u043d\u044f",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "\u0432\u0438\u0448\u043d\u044f",
+                            "gr.pos": "NOUN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0438",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "\u0438",
+                            "gr.pos": "CONJ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0430\u0439\u0432\u0430",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u0430\u0439\u0432\u0430",
+                            "gr.pos": "NOUN"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": ",",
+                            "gr.pos": "PUNCT"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {}
+        },
+        {
+            "text": "\u0418 \u0434\u043b\u0438\u043d\u043d\u043e\u0445\u0432\u043e\u0441\u0442\u044b\u043c \u0448\u0435\u043f\u0447\u0435\u0442 \u043a\u043e\u0448\u043a\u0430\u043c ",
+            "words": [
+                {
+                    "wf": "\u0418",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "\u0438",
+                            "gr.pos": "CONJ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0434\u043b\u0438\u043d\u043d\u043e\u0445\u0432\u043e\u0441\u0442\u044b\u043c",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "\u0434\u043b\u0438\u043d\u043d\u043e\u0445\u0432\u043e\u0441\u0442\u044b\u0439",
+                            "gr.pos": "ADJF"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0448\u0435\u043f\u0447\u0435\u0442",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u0448\u0435\u043f\u0442\u0430\u0442\u044c",
+                            "gr.pos": "VERB"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u043a\u043e\u0448\u043a\u0430\u043c",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "\u043a\u043e\u0448\u043a\u0430",
+                            "gr.pos": "NOUN"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {}
+        },
+        {
+            "text": "\u041a\u043e\u0448\u0430\u0447\u044c\u0438, \u043c\u0438\u043b\u044b\u0435 \u0441\u043b\u043e\u0432\u0430.",
+            "words": [
+                {
+                    "wf": "\u041a\u043e\u0448\u0430\u0447\u044c\u0438",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": "\u043a\u043e\u0448\u0430\u0447\u0438\u0439",
+                            "gr.pos": "ADJF"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": ",",
+                            "gr.pos": "PUNCT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u043c\u0438\u043b\u044b\u0435",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "\u043c\u0438\u043b\u044b\u0439",
+                            "gr.pos": "ADJF"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0441\u043b\u043e\u0432\u0430",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u0441\u043b\u043e\u0432\u043e",
+                            "gr.pos": "NOUN"
+                        }
+                    ]
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": ".",
+                            "gr.pos": "PUNCT"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {}
+        },
+        {
+            "text": "\u0418 \u043a\u0430\u0436\u0435\u0442\u0441\u044f \u2014 \u043e\u043d\u0430 \u0434\u043b\u044f \u0448\u0443\u0442\u043a\u0438 ",
+            "words": [
+                {
+                    "wf": "\u0418",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "lex": "\u0438",
+                            "gr.pos": "CONJ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u043a\u0430\u0436\u0435\u0442\u0441\u044f",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": "\u043a\u0430\u0437\u0430\u0442\u044c\u0441\u044f",
+                            "gr.pos": "VERB"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u2014",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "\u2014",
+                            "gr.pos": "PUNCT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u043e\u043d\u0430",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "\u043e\u043d\u0430",
+                            "gr.pos": "NPRO"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0434\u043b\u044f",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u0434\u043b\u044f",
+                            "gr.pos": "PREP"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0448\u0443\u0442\u043a\u0438",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "\u0448\u0443\u0442\u043a\u0430",
+                            "gr.pos": "NOUN"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {}
+        },
+        {
+            "text": "\u041b\u0435\u0433\u043b\u0430 \u0432 \u043f\u043e\u0441\u0442\u0435\u043b\u044c... \u0412\u043e\u0442 \u043f\u043e\u0431\u0435\u0436\u0438\u0442! ",
+            "words": [
+                {
+                    "wf": "\u041b\u0435\u0433\u043b\u0430",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 7,
+                    "ana": [
+                        {
+                            "lex": "\u043b\u0435\u0447\u044c",
+                            "gr.pos": "VERB"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0432",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "lex": "\u0432",
+                            "gr.pos": "PREP"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u043f\u043e\u0441\u0442\u0435\u043b\u044c",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": "\u043f\u043e\u0441\u0442\u0435\u043b\u044c",
+                            "gr.pos": "NOUN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "...",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "...",
+                            "gr.pos": "PUNCT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0412\u043e\u0442",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "\u0432\u043e\u0442",
+                            "gr.pos": "PRCL"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u043f\u043e\u0431\u0435\u0436\u0438\u0442",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u043f\u043e\u0431\u0435\u0436\u0430\u0442\u044c",
+                            "gr.pos": "VERB"
+                        }
+                    ]
+                },
+                {
+                    "wf": "!",
+                    "wtype": "punct",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "!",
+                            "gr.pos": "PUNCT"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {}
+        },
+        {
+            "text": "\u041d\u043e \u0441\u0442\u0435\u043d\u044b \u0431\u0435\u043b\u044b\u0435 \u0442\u0430\u043a \u0436\u0443\u0442\u043a\u0438...",
+            "words": [
+                {
+                    "wf": "\u041d\u043e",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "lex": "\u043d\u043e",
+                            "gr.pos": "CONJ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0441\u0442\u0435\u043d\u044b",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": "\u0441\u0442\u0435\u043d\u0430",
+                            "gr.pos": "NOUN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0431\u0435\u043b\u044b\u0435",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "\u0431\u0435\u043b\u044b\u0435",
+                            "gr.pos": "NOUN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0442\u0430\u043a",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "\u0442\u0430\u043a",
+                            "gr.pos": "CONJ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0436\u0443\u0442\u043a\u0438",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u0436\u0443\u0442\u043a\u0438\u0439",
+                            "gr.pos": "ADJS"
+                        }
+                    ]
+                },
+                {
+                    "wf": "...",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "...",
+                            "gr.pos": "PUNCT"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {}
+        },
+        {
+            "text": "\u041d\u0435\u0442, \u043f\u043e\u0447\u0435\u043c\u0443 \u043e\u043d\u0430 \u043b\u0435\u0436\u0438\u0442?",
+            "words": [
+                {
+                    "wf": "\u041d\u0435\u0442",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "lex": "\u043d\u0435\u0442",
+                            "gr.pos": "PRED"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": ",",
+                            "gr.pos": "PUNCT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u043f\u043e\u0447\u0435\u043c\u0443",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "\u043f\u043e\u0447\u0435\u043c\u0443",
+                            "gr.pos": "ADVB"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u043e\u043d\u0430",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "\u043e\u043d\u0430",
+                            "gr.pos": "NPRO"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u043b\u0435\u0436\u0438\u0442",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u043b\u0435\u0436\u0430\u0442\u044c",
+                            "gr.pos": "VERB"
+                        }
+                    ]
+                },
+                {
+                    "wf": "?",
+                    "wtype": "punct",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "?",
+                            "gr.pos": "PUNCT"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {}
+        },
+        {
+            "text": "\u041d\u0435\u0442, \u043f\u043e\u0447\u0435\u043c\u0443 \u043e\u043d\u0430 \u0432 \u0431\u043e\u043b\u044c\u043d\u0438\u0446\u0435?",
+            "words": [
+                {
+                    "wf": "\u041d\u0435\u0442",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 7,
+                    "ana": [
+                        {
+                            "lex": "\u043d\u0435\u0442",
+                            "gr.pos": "PRED"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "lex": ",",
+                            "gr.pos": "PUNCT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u043f\u043e\u0447\u0435\u043c\u0443",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": "\u043f\u043e\u0447\u0435\u043c\u0443",
+                            "gr.pos": "ADVB"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u043e\u043d\u0430",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "\u043e\u043d\u0430",
+                            "gr.pos": "NPRO"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0432",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "\u0432",
+                            "gr.pos": "PREP"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0431\u043e\u043b\u044c\u043d\u0438\u0446\u0435",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u0431\u043e\u043b\u044c\u043d\u0438\u0446\u0430",
+                            "gr.pos": "NOUN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "?",
+                    "wtype": "punct",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 7,
+                    "sentence_index": 6,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "?",
+                            "gr.pos": "PUNCT"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {}
+        },
+        {
+            "text": "\u0418 \u043f\u043e\u0447\u0435\u043c\u0443 \u0443 \u0441\u0438\u043d\u0438\u0445 \u0433\u043b\u0430\u0437 ",
+            "words": [
+                {
+                    "wf": "\u0418",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": "\u0438",
+                            "gr.pos": "CONJ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u043f\u043e\u0447\u0435\u043c\u0443",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "\u043f\u043e\u0447\u0435\u043c\u0443",
+                            "gr.pos": "ADVB"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0443",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "\u0443",
+                            "gr.pos": "PREP"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0441\u0438\u043d\u0438\u0445",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u0441\u0438\u043d\u0438\u0439",
+                            "gr.pos": "ADJF"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0433\u043b\u0430\u0437",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "\u0433\u043b\u0430\u0437",
+                            "gr.pos": "NOUN"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {}
+        },
+        {
+            "text": "\u041d\u0430 \u0447\u0435\u0440\u043d\u043e-\u0431\u0430\u0440\u0445\u0430\u0442\u043d\u043e\u0439 \u0440\u0435\u0441\u043d\u0438\u0446\u0435 ",
+            "words": [
+                {
+                    "wf": "\u041d\u0430",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "\u043d\u0430",
+                            "gr.pos": "PREP"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0447\u0435\u0440\u043d\u043e-\u0431\u0430\u0440\u0445\u0430\u0442\u043d\u043e\u0439",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u0447\u0435\u0440\u043d\u043e-\u0431\u0430\u0440\u0445\u0430\u0442\u043d\u044b\u0439",
+                            "gr.pos": "ADJF"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0440\u0435\u0441\u043d\u0438\u0446\u0435",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "\u0440\u0435\u0441\u043d\u0438\u0446\u0430",
+                            "gr.pos": "NOUN"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {}
+        },
+        {
+            "text": "\u0412\u0434\u0440\u0443\u0433 \u0441\u0432\u0435\u0442\u0438\u0442\u0441\u044f \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0430\u043b\u043c\u0430\u0437?",
+            "words": [
+                {
+                    "wf": "\u0412\u0434\u0440\u0443\u0433",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": "\u0432\u0434\u0440\u0443\u0433",
+                            "gr.pos": "ADVB"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0441\u0432\u0435\u0442\u0438\u0442\u0441\u044f",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "\u0441\u0432\u0435\u0442\u0438\u0442\u044c\u0441\u044f",
+                            "gr.pos": "VERB"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0431\u043e\u043b\u044c\u0448\u043e\u0439",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "\u0431\u043e\u043b\u044c\u0448\u043e\u0439",
+                            "gr.pos": "ADJF"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0430\u043b\u043c\u0430\u0437",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u0430\u043b\u043c\u0430\u0437",
+                            "gr.pos": "NOUN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "?",
+                    "wtype": "punct",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "?",
+                            "gr.pos": "PUNCT"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {}
+        },
+        {
+            "text": "\u0418 \u043e\u0442\u0447\u0435\u0433\u043e \u043e\u0442 \u0431\u0440\u043e\u0432\u0438 \u043a \u0431\u0440\u043e\u0432\u0438 ",
+            "words": [
+                {
+                    "wf": "\u0418",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "lex": "\u0438",
+                            "gr.pos": "CONJ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u043e\u0442\u0447\u0435\u0433\u043e",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": "\u043e\u0442\u0447\u0438\u0439",
+                            "gr.pos": "ADJF"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u043e\u0442",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "\u043e\u0442",
+                            "gr.pos": "PREP"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0431\u0440\u043e\u0432\u0438",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "\u0431\u0440\u043e\u0432\u044c",
+                            "gr.pos": "NOUN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u043a",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u043a",
+                            "gr.pos": "PREP"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0431\u0440\u043e\u0432\u0438",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "\u0431\u0440\u043e\u0432\u044c",
+                            "gr.pos": "NOUN"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {}
+        },
+        {
+            "text": "\u0412\u0434\u0440\u0443\u0433 \u043f\u0440\u043e\u043b\u0435\u0433\u0430\u0435\u0442 \u0442\u043e\u043d\u043a\u0438\u0439 \u0441\u043b\u0435\u0434? ",
+            "words": [
+                {
+                    "wf": "\u0412\u0434\u0440\u0443\u0433",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": "\u0432\u0434\u0440\u0443\u0433",
+                            "gr.pos": "ADVB"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u043f\u0440\u043e\u043b\u0435\u0433\u0430\u0435\u0442",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "\u043f\u0440\u043e\u043b\u0435\u0433\u0430\u0442\u044c",
+                            "gr.pos": "VERB"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0442\u043e\u043d\u043a\u0438\u0439",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "\u0442\u043e\u043d\u043a\u0438\u0439",
+                            "gr.pos": "ADJF"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0441\u043b\u0435\u0434",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u0441\u043b\u0435\u0434",
+                            "gr.pos": "NOUN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "?",
+                    "wtype": "punct",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "?",
+                            "gr.pos": "PUNCT"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {}
+        },
+        {
+            "text": "\u041e\u0442\u043a\u0443\u0434\u0430 \u0432 \u0433\u0443\u0431\u043a\u0430\u0445 \u043e\u0447\u0435\u0440\u043a \u0432\u0434\u043e\u0432\u0438\u0439, ",
+            "words": [
+                {
+                    "wf": "\u041e\u0442\u043a\u0443\u0434\u0430",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "lex": "\u043e\u0442\u043a\u0443\u0434\u0430",
+                            "gr.pos": "ADVB"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0432",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": "\u0432",
+                            "gr.pos": "PREP"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0433\u0443\u0431\u043a\u0430\u0445",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "\u0433\u0443\u0431\u043a\u0430",
+                            "gr.pos": "NOUN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u043e\u0447\u0435\u0440\u043a",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "\u043e\u0447\u0435\u0440\u043a",
+                            "gr.pos": "NOUN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0432\u0434\u043e\u0432\u0438\u0439",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u0432\u0434\u043e\u0432\u0438\u0439",
+                            "gr.pos": "ADJF"
+                        }
+                    ]
+                },
+                {
+                    "wf": ",",
+                    "wtype": "punct",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": ",",
+                            "gr.pos": "PUNCT"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {}
+        },
+        {
+            "text": "\u041f\u0435\u0447\u0430\u0442\u044c \u043d\u0435\u0438\u0441\u043f\u0440\u0430\u0432\u0438\u043c\u044b\u0445 \u0431\u0435\u0434?",
+            "words": [
+                {
+                    "wf": "\u041f\u0435\u0447\u0430\u0442\u044c",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "\u043f\u0435\u0447\u0430\u0442\u044c",
+                            "gr.pos": "NOUN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u043d\u0435\u0438\u0441\u043f\u0440\u0430\u0432\u0438\u043c\u044b\u0445",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "\u043d\u0435\u0438\u0441\u043f\u0440\u0430\u0432\u0438\u043c\u044b\u0439",
+                            "gr.pos": "ADJF"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0431\u0435\u0434",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u0431\u0435\u0434\u0430",
+                            "gr.pos": "NOUN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "?",
+                    "wtype": "punct",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "?",
+                            "gr.pos": "PUNCT"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {}
+        },
+        {
+            "text": "\u041e \u0447\u0435\u043c \u0433\u043b\u0443\u0445\u043e\u043d\u0435\u043c\u0430\u044f \u0434\u0443\u043c\u0430 ",
+            "words": [
+                {
+                    "wf": "\u041e",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "\u043e",
+                            "gr.pos": "PREP"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0447\u0435\u043c",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "\u0447\u0435\u043c",
+                            "gr.pos": "CONJ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0433\u043b\u0443\u0445\u043e\u043d\u0435\u043c\u0430\u044f",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u0433\u043b\u0443\u0445\u043e\u043d\u0435\u043c\u043e\u0439",
+                            "gr.pos": "ADJF"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0434\u0443\u043c\u0430",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "\u0434\u0443\u043c\u0430",
+                            "gr.pos": "NOUN"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {}
+        },
+        {
+            "text": "\u041d\u0430 \u0442\u0435\u043c\u043d\u043e-\u0440\u043e\u0437\u043e\u0432\u043e\u043c \u0447\u0435\u043b\u0435?",
+            "words": [
+                {
+                    "wf": "\u041d\u0430",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "\u043d\u0430",
+                            "gr.pos": "PREP"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0442\u0435\u043c\u043d\u043e-\u0440\u043e\u0437\u043e\u0432\u043e\u043c",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "\u0442\u0451\u043c\u043d\u043e-\u0440\u043e\u0437\u043e\u0432\u044b\u0439",
+                            "gr.pos": "ADJF"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0447\u0435\u043b\u0435",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u0447\u0435\u043b\u043e",
+                            "gr.pos": "NOUN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "?",
+                    "wtype": "punct",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "?",
+                            "gr.pos": "PUNCT"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {}
+        },
+        {
+            "text": "\u041e\u0442\u043a\u0443\u0434\u0430 \u0441\u0442\u0440\u0430\u0445 \u0448\u0430\u0433\u043e\u0432 \u0438 \u0448\u0443\u043c\u0430 ",
+            "words": [
+                {
+                    "wf": "\u041e\u0442\u043a\u0443\u0434\u0430",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": "\u043e\u0442\u043a\u0443\u0434\u0430",
+                            "gr.pos": "ADVB"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0441\u0442\u0440\u0430\u0445",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "\u0441\u0442\u0440\u0430\u0445",
+                            "gr.pos": "NOUN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0448\u0430\u0433\u043e\u0432",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "\u0448\u0430\u0433",
+                            "gr.pos": "NOUN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0438",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u0438",
+                            "gr.pos": "CONJ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0448\u0443\u043c\u0430",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "\u0448\u0443\u043c",
+                            "gr.pos": "NOUN"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {}
+        },
+        {
+            "text": "\u0418 \u043a\u0440\u0438\u043a\u0438 \u0432 \u0441\u0443\u043c\u0435\u0440\u0435\u0447\u043d\u043e\u0439 \u043c\u0433\u043b\u0435?",
+            "words": [
+                {
+                    "wf": "\u0418",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "lex": "\u0438",
+                            "gr.pos": "CONJ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u043a\u0440\u0438\u043a\u0438",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": "\u043a\u0440\u0438\u043a",
+                            "gr.pos": "NOUN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0432",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "\u0432",
+                            "gr.pos": "PREP"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0441\u0443\u043c\u0435\u0440\u0435\u0447\u043d\u043e\u0439",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "\u0441\u0443\u043c\u0435\u0440\u0435\u0447\u043d\u044b\u0439",
+                            "gr.pos": "ADJF"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u043c\u0433\u043b\u0435",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u043c\u0433\u043b\u0430",
+                            "gr.pos": "NOUN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "?",
+                    "wtype": "punct",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "?",
+                            "gr.pos": "PUNCT"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {}
+        },
+        {
+            "text": "\u041f\u043e\u043a\u0438\u043d\u0443\u043b \u0431\u043e\u0433 \u043b\u044e\u0434\u0435\u0439 \u0438 \u0437\u0435\u043c\u043b\u044e!",
+            "words": [
+                {
+                    "wf": "\u041f\u043e\u043a\u0438\u043d\u0443\u043b",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 6,
+                    "ana": [
+                        {
+                            "lex": "\u043f\u043e\u043a\u0438\u043d\u0443\u0442\u044c",
+                            "gr.pos": "VERB"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0431\u043e\u0433",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": "\u0431\u043e\u0433",
+                            "gr.pos": "NOUN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u043b\u044e\u0434\u0435\u0439",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "\u0447\u0435\u043b\u043e\u0432\u0435\u043a",
+                            "gr.pos": "NOUN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0438",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "\u0438",
+                            "gr.pos": "CONJ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0437\u0435\u043c\u043b\u044e",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u0437\u0435\u043c\u043b\u044f",
+                            "gr.pos": "NOUN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "!",
+                    "wtype": "punct",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 6,
+                    "sentence_index": 5,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "!",
+                            "gr.pos": "PUNCT"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {}
+        },
+        {
+            "text": "\u041a\u0430\u043a \u0441\u0442\u0440\u0430\u0448\u043d\u043e \u043f\u0440\u0430\u0432\u0434\u0443 \u043f\u043e\u043d\u0438\u043c\u0430\u0442\u044c! ",
+            "words": [
+                {
+                    "wf": "\u041a\u0430\u043a",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": "\u043a\u0430\u043a",
+                            "gr.pos": "CONJ"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0441\u0442\u0440\u0430\u0448\u043d\u043e",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "\u0441\u0442\u0440\u0430\u0448\u043d\u043e",
+                            "gr.pos": "ADVB"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u043f\u0440\u0430\u0432\u0434\u0443",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "\u043f\u0440\u0430\u0432\u0434\u0430",
+                            "gr.pos": "NOUN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u043f\u043e\u043d\u0438\u043c\u0430\u0442\u044c",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u043f\u043e\u043d\u0438\u043c\u0430\u0442\u044c",
+                            "gr.pos": "INFN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "!",
+                    "wtype": "punct",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": "!",
+                            "gr.pos": "PUNCT"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {}
+        },
+        {
+            "text": "\u041e\u0442\u0432\u0435\u0442\u0443 \u0431\u0435\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u043c\u0443 \u0432\u043d\u0435\u043c\u043b\u044e: ",
+            "words": [
+                {
+                    "wf": "\u041e\u0442\u0432\u0435\u0442\u0443",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "\u043e\u0442\u0432\u0435\u0442",
+                            "gr.pos": "NOUN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0431\u0435\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u043c\u0443",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "\u0431\u0435\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439",
+                            "gr.pos": "ADJF"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0432\u043d\u0435\u043c\u043b\u044e",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u0432\u043d\u0435\u043c\u043b\u0438\u0442\u044c",
+                            "gr.pos": "VERB"
+                        }
+                    ]
+                },
+                {
+                    "wf": ":",
+                    "wtype": "punct",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": ":",
+                            "gr.pos": "PUNCT"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {}
+        },
+        {
+            "text": "\u0420\u0435\u0431\u0435\u043d\u043e\u043a \u2014 \u0431\u0443\u0434\u0443\u0449\u0430\u044f \u043c\u0430\u0442\u044c.",
+            "words": [
+                {
+                    "wf": "\u0420\u0435\u0431\u0435\u043d\u043e\u043a",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 1,
+                    "sentence_index": 0,
+                    "sentence_index_neg": 5,
+                    "ana": [
+                        {
+                            "lex": "\u0440\u0435\u0431\u0451\u043d\u043e\u043a",
+                            "gr.pos": "NOUN"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u2014",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 2,
+                    "sentence_index": 1,
+                    "sentence_index_neg": 4,
+                    "ana": [
+                        {
+                            "lex": "\u2014",
+                            "gr.pos": "PUNCT"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u0431\u0443\u0434\u0443\u0449\u0430\u044f",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 3,
+                    "sentence_index": 2,
+                    "sentence_index_neg": 3,
+                    "ana": [
+                        {
+                            "lex": "\u0431\u0443\u0434\u0443\u0449\u0438\u0439",
+                            "gr.pos": "ADJF"
+                        }
+                    ]
+                },
+                {
+                    "wf": "\u043c\u0430\u0442\u044c",
+                    "wtype": "word",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 4,
+                    "sentence_index": 3,
+                    "sentence_index_neg": 2,
+                    "ana": [
+                        {
+                            "lex": "\u043c\u0430\u0442\u044c",
+                            "gr.pos": "NOUN"
+                        }
+                    ]
+                },
+                {
+                    "wf": ".",
+                    "wtype": "punct",
+                    "off_start": 0,
+                    "off_end": 0,
+                    "next_word": 5,
+                    "sentence_index": 4,
+                    "sentence_index_neg": 1,
+                    "ana": [
+                        {
+                            "lex": ".",
+                            "gr.pos": "PUNCT"
+                        }
+                    ]
+                }
+            ],
+            "lang": 0,
+            "meta": {}
+        },
+        {
+            "text": "",
+            "words": [],
+            "lang": 0,
+            "meta": {}
+        }
+    ]
+}

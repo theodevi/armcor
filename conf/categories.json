@@ -1,0 +1,22 @@
+{
+  "russian": {
+    "NOUN": "pos",
+    "ADJF": "pos",
+    "ADJS": "pos",
+    "COMP": "pos",
+    "VERB": "pos",
+    "INFN": "pos",
+    "PRTF": "pos",
+    "PRTS": "pos",
+    "GRND": "pos",
+    "NUMR": "pos",
+    "ADVB": "pos",
+    "NPRO": "pos",
+    "PRED": "pos",
+    "PREP": "pos",
+    "CONJ": "pos",
+    "PRCL": "pos",
+    "INTJ": "pos",
+    "PUNCT": "pos"
+    }
+}
